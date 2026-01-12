@@ -1,0 +1,26 @@
+# Firebase credentials - sensitive data
+face-recognition-7c83d-firebase-adminsdk-h6dpo-755a1cdd56.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+Data/
+classifier.xml
+Attendance.csv
