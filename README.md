@@ -4,20 +4,11 @@ A comprehensive face recognition-based attendance system built with Python, Open
 
 ## 📷 Screenshots
 
-### Login Screen
-![Login Screen](screenshots/login.png)
-
 ### Main Dashboard
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard](Dashboard.png)
 
-### Student Management
-![Student Management](screenshots/student_management.png)
-
-### Face Recognition in Action
-![Face Recognition](screenshots/face_recognition.png)
-
-### Attendance Records
-![Attendance Records](screenshots/attendance.png)
+### Student Details
+![Student Details](Studentdetails.png)
 
 ## ✨ Features
 
